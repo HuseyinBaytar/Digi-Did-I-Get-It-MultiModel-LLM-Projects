@@ -1,4 +1,4 @@
-
+ 
 * [Turkish README](https://github.com/mesutdmn/Digi-Did-I-Get-It/blob/main/README.tr.md)
 
 ## Multimodal-LLM Powered Multimedia to Q/A Generation System
